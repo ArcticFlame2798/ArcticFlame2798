@@ -1,39 +1,38 @@
-# Hi, I'm ArcticFlame2798 👋
+# Hi, I'm Aarav Ahluwalia 👋
 
-Welcome to my GitHub profile. I’m a developer and creator focused on building meaningful projects, learning new technologies, and pushing my skills forward.
+I’m a software developer and creator focused on building thoughtful, practical, and well-crafted digital experiences. I enjoy solving problems, learning continuously, and turning ideas into meaningful projects.
 
 ## About Me
-- 💻 Passionate about software development, problem-solving, and innovation
-- 🌱 Always learning and exploring new tools, frameworks, and ideas
-- 🚀 Building projects that combine creativity with practical value
-- 🎯 Interested in technology, systems, and digital experiences
+- 💼 Passionate about software development and product-minded engineering
+- 🌱 Constantly learning new technologies, frameworks, and best practices
+- 🚀 Interested in creating clean, scalable, and user-focused solutions
+- 🎯 Driven by curiosity, problem-solving, and continuous improvement
 
 ## What I'm Doing
-I’m currently:
-- building projects and experiments that sharpen my skills
-- learning new technologies and improving my workflow
-- exploring ideas in software, design, and product development
-- creating work that reflects my interests and goals
+- Building projects that combine real-world usefulness with strong design
+- Exploring modern tools and workflows to sharpen my engineering skills
+- Working on ideas that improve user experience and solve meaningful problems
+- Learning by building, iterating, and refining every step of the way
 
-## Tech Stack
-- Languages: JavaScript, TypeScript, Python, Bash
+## Core Skills
+- Languages: JavaScript, TypeScript, Python
 - Frontend: HTML, CSS, React, Next.js
-- Backend: Node.js, Express, APIs
+- Backend: Node.js, Express, REST APIs
 - Tools: Git, GitHub, VS Code, Docker
 
 ## Current Focus
-- improving my development workflow
-- building clean, useful, and scalable projects
-- expanding my technical knowledge and creative problem-solving
+- improving my software architecture and development workflow
+- building polished, useful projects with real-world value
+- expanding my knowledge in modern web development and engineering practices
 
 ## Connect
 - GitHub: https://github.com/ArcticFlame2798
-- Portfolio: coming soon
-- Email: add your email here
+- Email: your.email@example.com
+- LinkedIn: your-linkedin-profile
 
 ## Fun Fact
-I enjoy turning ideas into usable projects and learning by building.
+I enjoy turning ideas into useful products and learning through hands-on building.
 
 ---
 
-> “Learning by building is the fastest way to grow.”
+> “Strong work is built through curiosity, consistency, and thoughtful execution.”
